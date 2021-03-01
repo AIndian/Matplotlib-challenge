@@ -1,0 +1,4 @@
+The two drugs that showed the best final results is Capomulin and Ramicane both showing a median under the 45.00 mm3 tumor start size.
+There is a very positive correlation (r^2 = 0.76) between the average tumor volume and the weight of the mouse (speicifically for the Capomulin Regime), but shows weight can be an important factor of treatment and care
+The distribution of female and male mice are even allowing for a removal of gender bias
+According to statistics, best drug for controlling and treating the Tumor is Ramicane (median = 40.673, mean = 40.217, var 23.48 ) 
